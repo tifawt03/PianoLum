@@ -1,0 +1,17 @@
+# Arduino build output
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# config local (credentials WiFi)
+config.h
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
